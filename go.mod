@@ -1,4 +1,4 @@
-module nginx-docker-proxy
+module github.com/kyle-aoki/nginx-docker-proxy
 
 go 1.19
 
